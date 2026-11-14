@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horseandrabbet.com/sitemap.xml
